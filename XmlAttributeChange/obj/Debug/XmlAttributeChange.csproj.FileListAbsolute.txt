@@ -1,0 +1,9 @@
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\bin\Debug\XmlAttributeChange.exe.config
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\bin\Debug\XmlAttributeChange.exe
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\bin\Debug\XmlAttributeChange.pdb
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\obj\Debug\XmlAttributeChange.csprojResolveAssemblyReference.cache
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\obj\Debug\XmlAttributeChange.Form1.resources
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\obj\Debug\XmlAttributeChange.Properties.Resources.resources
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\obj\Debug\XmlAttributeChange.csproj.GenerateResource.Cache
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\obj\Debug\XmlAttributeChange.exe
+E:\MyWorkSpace\XmlAttributeChange\XmlAttributeChange\obj\Debug\XmlAttributeChange.pdb
